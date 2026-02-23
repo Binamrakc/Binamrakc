@@ -37,11 +37,12 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=binamrakc&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binamrakc&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="170" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Binamrakc&hide_border=true)
+
+## 📅 Contribution Graph
+
+![Contributions](https://ghchart.rshah.org/2563EB/Binamrakc)
 
 > “Consistency builds skill. Skill builds confidence.”
