@@ -31,9 +31,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-ffffff?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+
 
 ### ⚙ Backend
 ![Go](https://img.shields.io/badge/Go-ffffff?style=for-the-badge&logo=go&logoColor=00ADD8)
+![PHP](https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=777BB4)
 
 ---
 
