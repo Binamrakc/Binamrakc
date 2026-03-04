@@ -40,11 +40,6 @@
 ![PHP](https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=777BB4)
 
 ---
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Binamrakc&hide_border=true)
-
 ## 📅 Contribution Graph
 
 ![Contributions](https://ghchart.rshah.org/2563EB/Binamrakc)
